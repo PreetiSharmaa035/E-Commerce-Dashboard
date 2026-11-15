@@ -54,7 +54,8 @@ The dashboard highlights these KPIs:
 Add the dashboard image to the repository (for example, as `Dashboard.png`) and use this preview link:
 
 ```markdown
-![E-Commerce Sales Dashboard](Dashboard.png)
+<img width="1198" height="610" alt="E COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/7b4e3186-8690-4bf2-a71a-bea6181d2e15" />
+
 ```
 
 ## 8. Key Learnings
