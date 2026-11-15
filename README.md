@@ -65,6 +65,3 @@ Add the dashboard image to the repository (for example, as `Dashboard.png`) and 
 - Practiced presenting category, regional, monthly, status, and channel analysis in one view.
 - Learned to turn transactional data into clear, decision-oriented visual summaries.
 
-## Author
-
-Preeti Sharma
